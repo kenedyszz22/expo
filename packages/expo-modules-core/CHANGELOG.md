@@ -16,6 +16,8 @@
 
 ### 💡 Others
 
+- [iOS] Use dynamic type for AsyncFunction result conversion ([#36986](https://github.com/expo/expo/pull/36986) by [@jakex7](https://github.com/jakex7))
+
 ## 2.3.13 — 2025-05-08
 
 ### 🐛 Bug fixes
