@@ -10,6 +10,8 @@
 
 ### 🐛 Bug fixes
 
+- [Android] Fix `useExoShutter` prop not being exposed to the JS side. ([#37012](https://github.com/expo/expo/pull/37012) by [@behenate](https://github.com/behenate))
+
 ### 💡 Others
 
 ## 2.1.9 — 2025-05-08
